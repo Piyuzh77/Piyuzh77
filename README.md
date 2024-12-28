@@ -30,9 +30,9 @@ Feel free to reach out to me on:
 
 ## Featured Repositories
 
-1. [Spring Boot REST API](https://github.com/[your username]/spring-boot-rest-api)
-2. [React + Spring Boot Full Stack App](https://github.com/[your username]/react-spring-boot-app)
-3. [Microservices Architecture Example](https://github.com/[your username]/microservices-example)
+1. [Spring Boot REST API](https://github.com/piyuzh77/spring-boot-rest-api)
+2. [React + Spring Boot Full Stack App](https://github.com/piyuzh77/react-spring-boot-app)
+3. [Microservices Architecture Example](https://github.com/piyuzh77/microservices-example)
 
 ## My Portfolio
 
