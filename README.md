@@ -21,18 +21,13 @@ As a full-stack developer specializing in Spring Boot applications, I bring toge
 - Databases: MySQL, PostgreSQL
 - Cloud Platforms: AWS, Azure, Google Cloud
 
-## Let's Connect!
+## GitHub Stats
 
-Feel free to reach out to me on:
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=piyuzh77&show_icons=true&theme=radical)
 
-[![Twitter URL](https://img.shields.io/twitter/follow/piyushontwt.svg?style=social&label=Follow)](https://twitter.com/piyushontwt)
-[![LinkedIn URL](https://img.shields.io/badge/Connect-Directly-blue.svg?style=social&logo=linkedin&logoColor=blue&link=https://www.linkedin.com/in/piyushg0707)](https://www.linkedin.com/in/piyushg0707)
+## Top Languages
 
-## Featured Repositories
-
-1. [Spring Boot REST API](https://github.com/piyuzh77/spring-boot-rest-api)
-2. [React + Spring Boot Full Stack App](https://github.com/piyuzh77/react-spring-boot-app)
-3. [Microservices Architecture Example](https://github.com/piyuzh77/microservices-example)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=piyuzh77&theme=radical)
 
 ## My Portfolio
 
@@ -40,12 +35,12 @@ Check out my latest projects and achievements:
 
 [![Portfolio](https://img.shields.io/badge/View-Portfolio-blue.svg)](https://piyuzh77.github.io/PortfolioDisplay/)
 
-## Stay Updated
+## Let's Connect!
 
-Want to stay up-to-date with my latest projects and learnings? Follow me on:
+Feel free to reach out to me on:
 
-[![Medium Badge](https://img.shields.io/badge/Medium-Read-my-medium.com-555555.svg)](https://medium.com/@[your medium handle])
-[![Dev.to Badge](https://img.shields.io/badge/dev.to-Read-my-dev.to-555555.svg)](https://dev.to/[your dev.to handle])
+[![Twitter URL](https://img.shields.io/twitter/follow/piyushontwt.svg?style=social&label=Follow)](https://twitter.com/piyushontwt)
+[![LinkedIn URL](https://img.shields.io/badge/Connect-Directly-blue.svg?style=social&logo=linkedin&logoColor=blue&link=https://www.linkedin.com/in/piyushg0707)](https://www.linkedin.com/in/piyushg0707)
 
 ---
 
