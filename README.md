@@ -1,37 +1,43 @@
-# Hi there, I'm Piyuzh77! 👋
+# Welcome to My GitHub Profile! 🚀
 
-Welcome to my GitHub profile! I'm a passionate developer who loves coding and learning new technologies. Here's a little bit about me:
+[![Header](https://c.tenor.com/0zqfQpUd3eIAAAAM/doge-dancing.gif)]()
 
-## 🚀 About Me
+## Who Am I?
 
-- 🔭 I’m currently working on [Your Current Project]
-- 🌱 I’m currently learning [Technologies or Skills You Are Learning]
-- 👯 I’m looking to collaborate on [Projects or Areas You Want to Collaborate On]
-- 🤔 I’m looking for help with [Any Help or Guidance You Need]
-- 💬 Ask me about [Your Areas of Expertise or Interests]
-- 📫 How to reach me: [Your Email or Other Contact Information]
-- ⚡ Fun fact: [A Fun Fact About You]
+I'm a passionate developer and tech enthusiast with a knack for solving complex problems and building innovative solutions. When I'm not coding, you can find me exploring cutting-edge technologies or mentoring aspiring developers.
 
-## 🛠️ Languages and Tools
+### Fun Facts:
 
-Here are some of the languages and tools I work with:
+- I once solved a bug in under 5 minutes during a coding challenge
+- My favorite programming language is Java (but I'm learning Kotlin too!)
+- I can recite the entire script of "The Matrix" backwards
 
-- Programming Languages: [Languages You Use]
-- Frameworks: [Frameworks You Use]
-- Tools: [Tools You Use]
+## What Do I Do?
 
-## 📈 GitHub Stats
+As a full-stack developer specializing in web applications, I bring together front-end flair and back-end brains to craft seamless digital experiences. My expertise spans:
 
-![Piyuzh77's GitHub stats](https://github-readme-stats.vercel.app/api?username=Piyuzh77&show_icons=true&theme=radical)
+- Front-end: React, Angular, Bootstrap
+- Back-end: Spring Boot, Node.js, Express
+- Databases: MySQL, PostgreSQL
+- Cloud Platforms: AWS, Google Cloud, Azure
 
-## 🏆 GitHub Trophies
+## Let's Connect!
 
-![Piyuzh77's GitHub trophies](https://github-profile-trophy.vercel.app/?username=Piyuzh77&theme=radical)
+Feel free to reach out to me on:
 
-## 📫 Connect with Me
+[![Twitter URL](https://img.shields.io/twitter/follow/piyushontwt.svg?style=social&label=Follow)](https://twitter.com/piyushontwt)
+[![LinkedIn URL](https://img.shields.io/badge/Connect-Directly-blue.svg?style=social&logo=linkedin&logoColor=blue&link=https://www.linkedin.com/in/piyushg0707)](https://www.linkedin.com/in/piyushg0707)
 
-- [LinkedIn](https://www.linkedin.com/in/piyushg0707)
-- [X (Twitter)](https://x.com/Piyushontwt)
-- [Personal Website](https://piyuzh77.github.io/PortfolioDisplay/)
+## GitHub Stats
 
-Thanks for visiting my profile! Have a great day! 😊
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=[your username]&show_icons=true&title_color=ffffff&text_color=c9db10&icon_color=3599db&bg_color=1c1917)
+
+## Visitor Count
+
+![Visitor Count](https://profile-counter.glitch.me/[your username]/count.svg)
+
+---
+
+"Believe you can and you're halfway there." - Theodore Roosevelt
+
+Happy coding! 🎉
