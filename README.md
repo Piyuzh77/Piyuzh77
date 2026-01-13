@@ -1,47 +1,42 @@
-# Welcome to My GitHub Profile! 🚀
+# Welcome to My GitHub Profile 🚀
 
-[![Header](https://c.tenor.com/0zqfQpUd3eIAAAAM/doge-dancing.gif)]()
+## About Me
 
-## Who Am I?
+I’m a technology professional currently working as an **Oracle Database Administrator at Marsh McLennan**. My day-to-day work focuses on maintaining reliable, secure, and high-performance enterprise database systems.
 
-I'm a passionate Java developer with a knack for building robust Spring Boot applications. When I'm not coding, you can find me exploring new technologies or improving my skills.
+Alongside database administration, I have a strong background in **Java and Spring Boot**, allowing me to understand applications deeply and collaborate effectively across development and infrastructure teams.
 
-### Fun Facts:
+## Professional Focuss
 
-- I completed PrepExtra in a single day!
-- I have over 50+ hours of training on Spring Boot REST APIs
-
-## What Do I Do?
-
-As a full-stack developer specializing in Spring Boot applications, I bring together efficient backend logic to craft powerful digital solutions. My expertise spans:
-
-- Backend: Spring Boot, Java
-- Frontend: React, Angular
-- Databases: MySQL, PostgreSQL
+- **Current Role:** Oracle DBA — Marsh McLennan  
+- **Core Skills:**  
+  - Databases: Oracle, MySQL, PostgreSQL  
+  - Backend Development: Java, Spring Boot  
+  - Frontend (working knowledge): React, Angular  
+- **Interests:** Database performance tuning, system reliability, backend architecture, and automation
 
 ## GitHub Stats
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=piyuzh77&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=piyuzh77&show_icons=true&theme=radical)
 
 ## Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=piyuzh77&theme=radical)
 
-## My Portfolio
+## Projects & Websites
 
-Check out my latest projects and achievements:
+- **Portfolio:**  
+  https://piyuzh77.github.io/PortfolioDisplay/
 
-[![Portfolio](https://img.shields.io/badge/View-Portfolio-blue.svg)](https://piyuzh77.github.io/PortfolioDisplay/)
+- **MovieRando:**  
+  https://movierando.vercel.app  
+  A lightweight web app for discovering movies through randomized recommendations.
 
-## Let's Connect!
+## Connect With Me
 
-Feel free to reach out to me on:
-
-[![Twitter URL](https://img.shields.io/twitter/follow/piyushontwt.svg?style=social&label=Follow)](https://twitter.com/piyushontwt)
-[![LinkedIn URL](https://img.shields.io/badge/Connect-Directly-blue.svg?style=social&logo=linkedin&logoColor=blue&link=https://www.linkedin.com/in/piyushg0707)](https://www.linkedin.com/in/piyushg0707)
+- **LinkedIn:** https://www.linkedin.com/in/piyushg0707  
+- **Twitter:** https://twitter.com/piyushontwt  
 
 ---
 
-"Believe you can and you're halfway there." - Theodore Roosevelt
-
-Happy coding! 🎉
+Focused on building systems that are reliable, scalable, and easy to reason about.
