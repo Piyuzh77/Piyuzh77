@@ -25,7 +25,7 @@ Alongside database administration, I have a strong background in **Java and Spri
 - **MovieRando:**  
   https://movierando.vercel.app  
 
-  - **Prepextra:**  
+- **Prepextra:**  
   prepextra.nelify.app  
  
 
