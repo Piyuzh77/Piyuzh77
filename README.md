@@ -15,13 +15,7 @@ Alongside database administration, I have a strong background in **Java and Spri
   - Frontend (working knowledge): React, Angular  
 - **Interests:** Database performance tuning, system reliability, backend architecture, and automation
 
-## GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=piyuzh77&show_icons=true&theme=radical)
-
-## Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=piyuzh77&theme=radical)
 
 ## Projects & Websites
 
